@@ -21,29 +21,4 @@ Reduced duplication
 Cleaner ggplot themes
 More readable server logic
 
-Project Structure
-Code
-KPMG-Dashboard/
-│── app.R
-│── merged_data2.csv
-│── prac_data.csv
-│── job_industry_category.profit.csv
-│── wealth_segment.profit.csv
-│── state.profit.csv
-│── d.csv
-│── monthly_data_2.csv
-│── age_group.profit.csv
-│── brand.profit.csv
-│── README.md
-🛠️ Technologies Used
-R Shiny — interactive web application framework
 
-shinydashboard — dashboard layout and UI components
-
-ggplot2 — data visualization
-
-dplyr — data manipulation
-
-readr — fast CSV reading
-
-forcats — factor reordering for bar charts
